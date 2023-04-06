@@ -16,3 +16,5 @@ KNN Regression <br/>
 Ridge Regression<br/>
 Random Forest Regression<br/>
 Support Vector Regression <br/>
+Gradient Boosting Regressor <br/>
+Stacking Regressor <br/>
