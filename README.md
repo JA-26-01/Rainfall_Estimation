@@ -9,10 +9,10 @@ We take the historical weather data and preprocess the data. The preprocessing s
 
 ![image](https://user-images.githubusercontent.com/108082336/229849260-82f085d7-5555-442a-b0d9-70832c37c705.png)
 
-##Algorithms Used
-Multivariate Linear Regression (MLR).
-Multilayer Perceptron Regression  
-KNN Regression 
-Ridge Regression
-Random Forest Regression
-Support Vector Regression (SVR).
+<h3>Algorithms Used</h3><br/>
+Multivariate Linear Regression <br/>
+Multilayer Perceptron Regression  <br/>
+KNN Regression <br/>
+Ridge Regression<br/>
+Random Forest Regression<br/>
+Support Vector Regression <br/>
