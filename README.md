@@ -5,7 +5,7 @@ Estimation of rainfall trends in Austin, estimating the same using machine learn
 We take the historical weather data and preprocess the data. The preprocessing steps involve checking for null values, normalizing the feature values, visualizing the distribution of the features, finding the statistical summary of the features, finding and testing the correlation between the attributes, splitting into training and test sets and performing regression. We divide the dataset into two parts for training and one dataset is used on multiple linear regression model and other machine learning models and the other dataset is used on n hidden layer networks. Both the models are trained and the MSE is reduced. Then, predictions are made on the models and results are compared and analyzed.
 
 
-#Preview of Tableau Dashboard
+<h3>Preview of Tableau Dashboard</h3>
 
 ![image](https://user-images.githubusercontent.com/108082336/229849260-82f085d7-5555-442a-b0d9-70832c37c705.png)
 
