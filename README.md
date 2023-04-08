@@ -4,9 +4,9 @@ Data Visualization Project submitted to Dr Parvathi R, in lieu of completion of 
 
 Submitted By: 
 
-Jesmine Akhter         Khushi Mattu
-<br>
- 20BCE1945              20BCE1189
+Jesmine Akhter     &nbsp;&nbsp;&nbsp;    Khushi Mattu
+<br/>
+ 20BCE1945         &nbsp;&nbsp;&nbsp;        20BCE1189
 
 Topic: Estimation of rainfall trends in Austin, estimating the same using machine learning models and visualizing the analysis using Python and Tableau
 
