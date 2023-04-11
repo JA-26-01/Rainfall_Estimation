@@ -1,20 +1,20 @@
 # Rainfall_Prediction
 
-TOPIC: Comparison of different machine learning models for rainfall prediction.
+<h3>TOPIC:</h3> Comparison of different machine learning models for rainfall prediction.
 
 Data Visualization Project submitted to Dr. Parvathi R, in lieu of completion of partial requirements for the course CSE 3020, under Vellore Institute of Technology, Chennai.
 
-Submitted By: 
+<h3>Submitted By:</h3> 
 
 Jesmine Akhter     &nbsp;&nbsp;&nbsp;    Khushi Mattu
 <br/>
 20BCE1945         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    20BCE1189
 
-Tools used: Python, R, Tableau
+<h3>Tools used:</h3> Python, R, Tableau
 
-Implementation Platform: Colab, RStudio, Tableau
+<h3>Implementation Platform:</h3> Colab, RStudio, Tableau
 
-Synopsis: 
+<h3>Synopsis:</h3>
 
 The estimation of rainfall at any region, using the predictive attributes, is a constant area of research in recent times. Although considerable progress has been made in this regard, the accuracy that the existing models achieved highly depends on the attributes that have been utilized to predict the intended entity.Current rainfall predictio models rely on intricate statistical calculations that are frequently very expensive financially and computationally or do not apply to applications further down the line. Hence, methods that combine time-series data with Machine Learning algorithms are being investigated as a substitute to get over these problems.
 
@@ -33,7 +33,7 @@ Gradient Boosting Regressor <br/>
 Stacking Regressor <br/>
 
 
-<h3>Preview of Tableau Dashboard</h3>
+<h3>Preview of Tableau Dashboard:</h3>
 
 ![image](https://user-images.githubusercontent.com/108082336/229849260-82f085d7-5555-442a-b0d9-70832c37c705.png)
 
